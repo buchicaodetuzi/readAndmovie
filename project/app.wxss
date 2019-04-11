@@ -1,0 +1,5 @@
+text{
+  font-family: MicroSoft yahei;
+  /* font-size: 24rpx; */
+  color: #666;
+}
