@@ -2,7 +2,7 @@
 该项目是初学微信小程序做的一个demo由本人独立完成，也基本掌握了小程序的开发，图片都是由真机上截图下来的，整体效果还不错，实现的文章阅读和查看电影（即将上映、正在热映、Top250）的详情功能，电影信息来源与豆瓣api。
 
 
-# 首界面，只有第一次进入小程序才会显示
+#首界面，只有第一次进入小程序才会显示
 ![](https://github.com/buchicaodetuzi/readAndmovie/blob/master/images/1.jpg)
 # 主界面，有一个轮播图，下面主要是文章
 ![](https://github.com/buchicaodetuzi/readAndmovie/blob/master/images/2.jpg)
